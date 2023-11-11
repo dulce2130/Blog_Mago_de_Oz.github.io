@@ -1,0 +1,77 @@
+body{
+    background-color: rgb(33, 26, 40);
+    /*text-align: center;*/
+}
+
+.tarjeta{
+    background-color: rgb(220, 192, 247);
+    color: rgb(44, 19, 81);
+    padding: 15px;
+    margin: 15px;
+    border: 3px dashed white;
+    border-radius: 25px;
+}
+
+h3{
+    color: rgb(95, 9, 129);
+    text-align: center;
+}
+
+main nav a {
+    color: rgb(250, 246, 248);
+}
+
+.tarjeta ul li a{
+    color: rgb(204, 91, 140);
+}
+
+.contenedor {
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    border-radius: 15px;
+    border: 3px dashed white;
+}
+
+/*id solo para un elemento, no se olvide de colocar un #, ejem:*/
+
+#indice{
+    color: aqua;
+}
+
+#historia1{
+    color: rgb(109, 45, 142);
+    text-align: center
+}
+
+#album{
+    color: rgb(211, 32, 231);
+}
+
+h1{
+    color: white;
+    font-family: 'Pixelify Sans', sans-serif;
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+
+nav a:hover{
+    color: blueviolet;
+}
+
+.form{
+    background-color: rgb(229, 178, 222);
+    color: rgb(37, 7, 82);
+    padding: 15px;
+    margin: 15px;
+    border: 3px dashed white;
+    border-radius: 25px;
+    text-align: center;
+}
+
